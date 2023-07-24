@@ -1,6 +1,6 @@
-# kodemia_formularioFB
+# FormularioFB
 Ejercicio hacer formulario tipo facebook 
 
 Github pages:
 
-https://fandopg.github.io/kodemia_formularioFB/
+https://fandopg.github.io/formularioFB/
